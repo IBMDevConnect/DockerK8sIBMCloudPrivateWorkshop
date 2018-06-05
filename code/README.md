@@ -1,1 +1,1 @@
-# Reference Code for Dockers, K8s, IBM Cloud Private
+# Reference Code for Dockers, K8s, IBM Cloud Private Workshop
