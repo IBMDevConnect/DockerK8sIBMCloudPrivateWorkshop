@@ -22,7 +22,11 @@ Dockers, K8s, IBM Cloud Private workshop based on Docker, Kubernetes and IBM Clo
 * Helm - Overview, Demo
 * Summary
 
+# For Lab
 
+Technical pre-requisites:
+Details of the pre-requisites are available a [pre-requisite](https://ibm.ent.box.com/s/hmq4q823bfq85mr2mfi8917qfwiwwxt5). 
+Completion of the Technical pre-req is a MUST 
 
 
 
