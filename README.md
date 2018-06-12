@@ -2,7 +2,7 @@
 
 # Welcome to the Dockers, K8s, IBM Cloud Private Workshop 
 
-Dockers, K8s, IBM Cloud Private workshop based on Docker, Kubernetes and IBM Cloud Private
+IBM Cloud Private workshop based on Docker, Kubernetes and IBM Cloud Private
 
 # Agenda
 
