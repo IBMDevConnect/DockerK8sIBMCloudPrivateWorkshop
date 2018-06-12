@@ -16,10 +16,11 @@ Dockers, K8s, IBM Cloud Private workshop based on Docker, Kubernetes and IBM Clo
 # Part 2
 
 * YAML
-  * Lab 3: Deploy on Kubernetes Cluster – IBM Cloud
+  	* Lab 3: Deploy on Kubernetes Cluster – IBM Cloud
 * Kubernetes @ IBM
 * ICP – IBM Cloud Private – Overview, Demo
 * Helm - Overview, Demo
+	* Lab 4: Helm Charts
 * Summary
 
 # For Lab
