@@ -19,7 +19,13 @@ Reference from https://github.com/kubernetes/minikube/releases
 # For Lab
 Start Minikube
 
-minikube start
+$ minikube start
+
+# Few commands to validate Kubectl running
+
+$ Kubectl get pods
+$ Kubectl get services
+
 
 # Once Started follow 
 Lab - Kubernetes Part 2.pdf
